@@ -1,0 +1,27 @@
+this is the first git file
+write :git status
+write git
+write git version
+write git add .
+write git commit -m "your commit"
+write git config --global user.email "you@example.com"
+write git config --global user.name "your name"
+write git log
+write git config --global user.name "your name"
+
+
+
+write git add --a
+
+
+
+
+
+
+Warning rm -rf .git        DELETES THE FOLDER
+
+
+
+
+pwd present working directory
+ls is a Linux shell command that lists directory contents of files and directories
