@@ -1,0 +1,28 @@
+//for c file
+To generate file(pre):
+gcc filename.c -o program
+
+
+To generate output file:(if below does not work try .\program <inputfile.txt> outputfilename)
+.\program <inputfile> outputfilename
+
+
+To compare the output of two files(in windows):
+FC outputfilename filename2
+FC outputfilename.txt filename2
+
+To run program:
+.\program
+
+
+
+//cpp program
+To generate file(pre):
+g++ fb.cpp
+
+
+To run program:
+.\a
+
+To generate output file:
+.\a <inputfile.txt> outputfilename.txt
