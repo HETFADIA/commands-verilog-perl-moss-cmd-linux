@@ -1,0 +1,14 @@
+To run the file:
+iverilog filename.v
+
+To run on testbench:
+iverilog lab2_xor.v testbench.v
+
+To execute it:
+vvp a.out
+
+
+
+
+To run waveform:
+gtkwave ha.vcd(where the file was dumped)
