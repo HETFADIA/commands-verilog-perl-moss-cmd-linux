@@ -11,6 +11,9 @@ To compare the output of two files(in windows):
 FC outputfilename filename2
 FC outputfilename.txt filename2
 
+To compare the files leaving the whitespace(in windows):
+FC /w a.txt b.txt
+
 To run program:
 .\program
 
@@ -26,3 +29,6 @@ To run program:
 
 To generate output file:
 .\a <inputfile.txt> outputfilename.txt
+
+More commands of FC:
+https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/fc#:~:text=When%20used%20with%20%2Fw%2C%20fc,and%20end%20of%20a%20line.&text=Specifies%20the%20number%20of%20consecutive,the%20files%20to%20be%20resynchronized
