@@ -6,5 +6,8 @@ To check c language files:
 perl moss.pl -l c L03.c L03_1.c file3.c file4.c file5.c
 (This folder must contain the above two files and moss.pl)
 
+To check cpp language files:
+perl moss.pl -l cc a.cpp b.cpp c.cpp ....
+
 To check java files:
 perl moss.pl -l java a.java b.java c.java ....
