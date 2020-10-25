@@ -2,6 +2,10 @@ Video: https://www.youtube.com/watch?v=5CyOTf2DHSg&t=307s
 
 Open the Perl (command line) and go to the folder having the files
 
+To check between different languages:
+perl moss.pl for.py forloop.py for.cpp fori.cpp forloop.cpp
+
+
 To check c language files:
 perl moss.pl -l c L03_Het_2019CSB1084_CS201_2020.c L03_Het_2019CSB1084_CS201_2020_1.c file3.c file4.c file5.c
 (This folder must contain the above two files and moss.pl)
@@ -13,7 +17,7 @@ To check java files:
 perl moss.pl -l java a.java b.java c.java ....
 
 To check verilog files:
-perl moss.pl -l verilog lab.v test.v
+perl moss.pl -l verilog lab4.v testbench.v
 
-To check python files:
-perl moss.pl -l python for.py forloop.py ....
+To check two python files:
+perl moss.pl -l python for.py forloop.py
