@@ -14,3 +14,6 @@ perl moss.pl -l java a.java b.java c.java ....
 
 To check verilog files:
 perl moss.pl -l verilog lab4.v testbench.v
+
+To check two python files:
+perl moss.pl -l python for.py forloop.py
