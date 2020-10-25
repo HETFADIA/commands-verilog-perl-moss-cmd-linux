@@ -20,4 +20,4 @@ int main() {
     a++;
 }
 
-//No similarity was found in the two files which means moss can be cheated easily by making functions
+//No similarity was found in the two files which means moss can be cheated easily by making functions for also one line
