@@ -5,7 +5,7 @@ Then go to settings and then scroll down to github pages:
 2) Save
 
 Refresh the page 3 times and then the link will be ready
-
+Also add the link in readme file
 
 Error part:
 1)Remember there should be only one index file
