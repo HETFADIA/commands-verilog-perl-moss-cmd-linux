@@ -1,0 +1,7 @@
+Save the main file on github with name index.html
+
+Then go to settings and then scroll down to github pages:
+1) In the source select Master from none
+2) Save
+
+Refresh the page 3 times and then the link will be ready
