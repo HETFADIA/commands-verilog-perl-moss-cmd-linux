@@ -14,3 +14,5 @@ If there is index.js file then the page will not be found (Error:404)
 2) If the error is not gone move js files to js folder
 
 3) Still if there is a error remove all the comments on all files and then check
+
+4) Now if it does not work then copy paste the code of index.html in vs code and Go live if the page opens and works then copy paste the code from vs code to the index.html. This time it will work surely
