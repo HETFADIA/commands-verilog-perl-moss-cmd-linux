@@ -1,0 +1,5 @@
+use fastio
+use #define endl "\n";
+use pragma optimisation
+use unordered_map instead of map
+use unordered_set instead of set
