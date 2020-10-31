@@ -1,6 +1,7 @@
 Video: https://www.youtube.com/watch?v=5CyOTf2DHSg&t=307s
 
 Open the Perl (command line) and go to the folder having the files
+perl command line is at C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Strawberry Perl (64-bit)
 
 To check between different languages:
 perl moss.pl for.py forloop.py for.cpp fori.cpp forloop.cpp
