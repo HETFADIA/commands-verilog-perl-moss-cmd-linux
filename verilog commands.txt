@@ -2,7 +2,7 @@ To run the file:
 iverilog filename.v
 
 To run on testbench:
-iverilog lab2_xor.v testbench.v
+iverilog FGPA.v testbench.v
 
 To execute it:
 vvp a.out
@@ -12,3 +12,16 @@ vvp a.out
 
 To run waveform:
 gtkwave ha.vcd(where the file was dumped)
+
+
+
+
+Part 1):
+Error part:
+If you get error as 
+testbench.v:12: error: reg lab5_output; cannot be driven by primitives or continuous assignment.
+testbench.v:12: error: Output port expression must support continuous assignment.
+testbench.v:12:      : Port 4 (out_final) of universal_shift_register is connected to lab5_output
+2 error(s) during elaboration.
+
+change reg to wire
