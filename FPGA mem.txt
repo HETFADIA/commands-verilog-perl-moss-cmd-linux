@@ -1,0 +1,93 @@
+00000 => 0
+00001 => 1
+00010 => 0
+00011 => 1
+00100 => 0
+00101 => 1
+00110 => 0
+00111 => 1
+01000 => 0
+01001 => 1
+01010 => 0
+01011 => 1
+01100 => 0
+01101 => 1
+01110 => 0
+01111 => 1
+10000 => 0
+10001 => 0
+10010 => 1
+10011 => 1
+10100 => 0
+10101 => 0
+10110 => 1
+10111 => 1
+11000 => 0
+11001 => 0
+11010 => 1
+11011 => 1
+11100 => 0
+11101 => 0
+11110 => 1
+11111 => 1
+
+When c0 is 0 last bit is selected because we want shift right(previous bit)
+Also in1 is previous bit
+When c0 is 1 last second bit is selected beacause we want shift left(next bit)
+Also in2 is previous bit
+
+
+
+00000 => 0
+00001 => 0
+00010 => 0
+00011 => 0
+00100 => 1
+00101 => 1
+00110 => 1
+00111 => 1
+01000 => 0
+01001 => 0
+01010 => 0
+01011 => 0
+01100 => 1
+01101 => 1
+01110 => 1
+01111 => 1
+10000 => 0
+10001 => 0
+10010 => 0
+10011 => 0
+10100 => 0
+10101 => 0
+10110 => 0
+10111 => 0
+11000 => 1
+11001 => 1
+11010 => 1
+11011 => 1
+11100 => 1
+11101 => 1
+11110 => 1
+11111 => 1
+
+Here when control is 0 the c0 is 0 when retain is there
+the output is in3(retain)
+When the control is 1 the c0 is 1 when load data is there
+the output is in4(data_load)
+
+
+c1 out1 out2
+000 => 0
+001 => 0
+010 => 1
+011 => 1
+100 => 0
+101 => 1
+110 => 0
+111 => 1
+
+When c1 is 0 logic tile ins1(out1) output is selected(2nd last bit)
+When c1 is 1 logic tile ins2(out2) output is selected(last bit)
+
+
