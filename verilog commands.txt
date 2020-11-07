@@ -33,3 +33,10 @@ testbench.v:12:      : Port 4 (out_final) of universal_shift_register is connect
 2 error(s) during elaboration.
 
 change reg to wire
+
+
+
+
+Problems:
+1) In verilog the bit from mem will be selected from right to left in configure.mem
+	For example if you select mem[{0,0,0,0,0}] from mem AAAAAAAA then 0th bit from right ie 0 will be selected
