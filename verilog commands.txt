@@ -34,6 +34,10 @@ testbench.v:12:      : Port 4 (out_final) of universal_shift_register is connect
 
 change reg to wire
 
+Part 2):
+1) I give up
+Check brackets
+
 
 
 
