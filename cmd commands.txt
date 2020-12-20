@@ -42,3 +42,10 @@ To generate output file:
 
 More commands of FC:
 https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/fc#:~:text=When%20used%20with%20%2Fw%2C%20fc,and%20end%20of%20a%20line.&text=Specifies%20the%20number%20of%20consecutive,the%20files%20to%20be%20resynchronized
+
+
+To output python program in a new file
+input=open("input.txt","r")
+output=open("output.txt","w")
+n=input.read()
+output.write(n)
