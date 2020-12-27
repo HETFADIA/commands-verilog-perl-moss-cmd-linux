@@ -17,4 +17,5 @@ Type cmd and write diskmgmt.msc to open disk manager where everything is managed
 Give some space to free space
 Go ahead and reboot computer on pen drive.
 On rebooting you will install ubuntu linux and then you will have to give space where give about 200gb starting and swap space(used when the earlier space is short) remaining
+ctrl + alt+ t=> open terminal
 
