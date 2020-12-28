@@ -1,3 +1,11 @@
 video: https://youtu.be/SO6Iv5x4w48
 write cat /sys/power/state in terminal
 output: freeze mem desk
+
+
+To know the location of swap partition:
+grep swap /etc/fstab
+
+output:
+# swap was on /dev/sda5 during installation
+UUID=e250f93e-d740-4769-a4b5-32fcf4bc3e96 none            swap    sw              0       0
