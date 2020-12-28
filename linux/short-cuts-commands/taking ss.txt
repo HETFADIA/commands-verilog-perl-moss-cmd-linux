@@ -1,0 +1,2 @@
+prtsc=> of whole window
+particular area => shift + prtsc
