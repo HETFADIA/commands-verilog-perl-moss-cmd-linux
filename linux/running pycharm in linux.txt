@@ -1,0 +1,2 @@
+cd Downloads/pycharm-community-2020.3.1/bin
+./pycharm.sh
