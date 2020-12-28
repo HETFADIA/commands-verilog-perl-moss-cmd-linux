@@ -19,3 +19,7 @@ Go ahead and reboot computer on pen drive.
 On rebooting you will install ubuntu linux and then you will have to give space where give about 200gb starting and swap space(used when the earlier space is short) remaining
 ctrl + alt+ t=> open terminal
 
+
+To force stop terminal => ctrl + c
+To copy from terminal  => ctrl + shift + c
+To paste in terminal   =>ctrl + shift + v
