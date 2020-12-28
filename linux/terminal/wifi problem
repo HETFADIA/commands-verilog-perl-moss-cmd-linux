@@ -1,1 +1,2 @@
  service newwork-manager restart
+ nmcli networking on
