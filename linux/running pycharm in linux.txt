@@ -1,2 +1,8 @@
 cd Downloads/pycharm-community-2020.3.1/bin
 ./pycharm.sh
+
+
+Here is the another way:
+Go to Downloads =>pycharm... => bin
+then open in terminal option in the location
+Then write ./pycharm.sh
