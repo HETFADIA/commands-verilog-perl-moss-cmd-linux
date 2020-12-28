@@ -9,3 +9,6 @@ grep swap /etc/fstab
 output:
 # swap was on /dev/sda5 during installation
 UUID=e250f93e-d740-4769-a4b5-32fcf4bc3e96 none            swap    sw              0       0
+
+sudo nano /etc/polkit-1/localauthority/50-local.d/com.ubuntu.enable-hibernate.pkla
+it opens a nano with empty file
