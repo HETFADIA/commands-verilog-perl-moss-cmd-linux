@@ -1,3 +1,7 @@
+sudo apt install pm-utils hibernate
+https://youtu.be/6cPEFVHXrD4
+
+
 video: https://youtu.be/SO6Iv5x4w48
 write cat /sys/power/state in terminal
 output: freeze mem desk
