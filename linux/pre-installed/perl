@@ -1,0 +1,3 @@
+perl comes pre installed on linux
+otherwise write
+sudo apt-get install perl
