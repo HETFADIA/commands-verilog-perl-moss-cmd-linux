@@ -23,3 +23,6 @@ ResultActive=yes
 Identity=unix-user:*
 Action=org.freedesktop.login1.hibernate;org.freedesktop.login1.handle-hibernate-key;org.freedesktop.login1;org.freedesktop.login1.hibernate-multiple-sessions;org.freedesktop.login1.hibernate-ignore-inhibit
 ResultActive=yes
+Save it using ctrl+o and enter
+and then exit using ctrl+x
+reboot linux and you will see the hibernate option in dropdown
