@@ -6,3 +6,7 @@ Here is the another way:
 Go to Downloads =>pycharm... => bin
 then open in terminal option in the location
 Then write ./pycharm.sh
+
+For running arduino go to 
+cd /Downloads/arduino-1.8.13-linux64/arduino-1.8.13
+and write arduino
