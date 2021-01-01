@@ -1,3 +1,5 @@
+Command for hiberante => systemctl hibernate
+
 sudo apt install pm-utils hibernate
 https://youtu.be/6cPEFVHXrD4
 
