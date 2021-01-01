@@ -1,1 +1,4 @@
 write swapon in terminal
+NAME      TYPE        SIZE USED PRIO
+/dev/sda5 partition 199.9G   0B   -2
+
