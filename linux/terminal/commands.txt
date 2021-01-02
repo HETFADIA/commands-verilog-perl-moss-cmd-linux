@@ -1,0 +1,3 @@
+watch https://youtu.be/61_gRSCS6AI
+sudo a; sudo b;
+to run multiple commands
