@@ -23,3 +23,7 @@ ctrl + alt+ t=> open terminal
 To force stop terminal => ctrl + c
 To copy from terminal  => ctrl + shift + c
 To paste in terminal   =>ctrl + shift + v
+
+
+To free storage go to 
+C:\Users\LENOVO\AppData\Local
