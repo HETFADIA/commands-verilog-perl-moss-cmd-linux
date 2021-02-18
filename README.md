@@ -27,3 +27,7 @@ To paste in terminal   =>ctrl + shift + v
 
 To free storage go to 
 C:\Users\LENOVO\AppData\Local
+
+
+To run in terminal:
+https://youtu.be/jvg4VtYEhKU
